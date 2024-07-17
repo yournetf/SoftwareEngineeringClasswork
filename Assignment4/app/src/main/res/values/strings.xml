@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tipcalculator">TipCalculator</string>
+    <string name="check_amount">Check amount:</string>
+    <string name="enter_check_amount">Enter check amount</string>
+    <string name="textview">TextView</string>
+    <string name="party_size">Party size:</string>
+    <string name="enter_party_size">Enter party size</string>
+    <string name="compute_tip">COMPUTE TIP</string>
+    <string name="tips_and_totals_per_person">Tips and totals (per person)</string>
+    <string name="tip">Tip:</string>
+    <string name="_15">15%</string>
+    <string name="_0">0</string>
+    <string name="_20">20%</string>
+    <string name="_25">25%</string>
+    <string name="total">Total:</string>
+</resources>
